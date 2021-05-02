@@ -406,6 +406,34 @@
                </div>
            </div>
        </div><!--marvel end-->
+       <hr>
+    <h3 style="color: #fff">ТОП за год</h3>
+    <div class="progress">
+    <div class="progress-bar bg-success" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+    <p style="color:#000; font-size: 12px"><b>Сlass of 63</b></p>
+    </div>
+<!-- Индикатор выполнения с темой info -->
+    <div class="progress">
+    <div class="progress-bar bg-info" role="progressbar" style="width: 90%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+    <p style="color:#000; font-size: 12px"><b>The Rental</b></p>
+    </div>
+<!-- Индикатор выполнения с темой warning -->
+    <div class="progress">
+    <div class="progress-bar bg-warning" role="progressbar" style="width: 88%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+    <p style="color:#000; font-size: 12px"><b>Paapam Cheyyathavar</b></p>
+    </div>
+<!-- Индикатор выполнения с темой danger -->
+    <div class="progress">
+    <div class="progress-bar bg-danger" role="progressbar" style="width: 84%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+    <p style="color:#000; font-size: 12px"><b>The Quarry</b></p>
+    </div>
+
+    <div class="progress">
+    <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+    <p style="color:#000; font-size: 12px"><b>Ghoat Stories</b></p>
+    </div>
+
+       
        <div class="footer-part">
                     <div class="datas">
                         <h2 class="feedback-text">
